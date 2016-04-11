@@ -1,5 +1,6 @@
 .navbar-custom-internal a {
   color: #fff;
+  margin: 0;
 }
 .navbar-inverse .navbar-logo {
   width: 140px;

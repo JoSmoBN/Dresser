@@ -31,6 +31,10 @@
  * App-wide Styles
  */
  /* make sure that our a tags have the cursor */
+body {
+  background-color: #E9E9E9;
+}
+
 a[ui-sref],
 a[ng-click]  { cursor:pointer; }
 
@@ -74,5 +78,3 @@ a[ng-click]  { cursor:pointer; }
   -moz-transform:translate3d(100px, 0, 0);
   transform:translate3d(100px, 0, 0);
 }
-
-
